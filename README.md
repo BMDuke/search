@@ -30,7 +30,9 @@ This works by defining a small langauge and mapping its keyword and primitives t
 cd ~/Desktop
 mkdir search_engine
 cd search_engine
-git clone []
+git clone https://github.com/BMDuke/search.git
+cd search
+pip install -r requirements.txt
 ```
 
 ### Start the program
